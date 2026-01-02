@@ -1,0 +1,4 @@
+streamlit
+easyocr
+pillow
+requests
